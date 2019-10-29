@@ -1,4 +1,6 @@
-# web
+Hellow, friend! 
+你好，朋友！
+
 A public website of mine, but it is coded by myself  ALONE.
 
 Hello. friends!
